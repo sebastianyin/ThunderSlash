@@ -1,0 +1,14 @@
+Game Plan
+
+Genre:  Top Down Scrolling Shooter
+
+Name:  Thunder Strike
+
+Goal:  Winning condition - player survive through level 1 and eradicate the final boss in level 2
+       Losing condition - player's lifeLeft drop to 0
+
+Mechanics:  Player use "UP", "DOWN", "LEFT", "RIGHT" key to move the player's aircraft to evade the missles from enemy,
+            use "D" key to fire missle.
+
+Level:  1st level - mob level (all enemys are mobs which never shoot and can be killed with one missle)
+        2nd level - boss level (one big boss which can fire missles and sustain the damage of multiple missles)
